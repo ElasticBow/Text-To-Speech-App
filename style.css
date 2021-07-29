@@ -1,0 +1,15 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  background-color: lightblue;
+}
+#TTS
+{
+    width:500px;
+}
+#speak_button
+{
+    width:100px;
+    height:50px;
+}
